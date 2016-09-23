@@ -3,7 +3,7 @@
 
 Name: William K Striby Jr
 
-ONID ID: 932-521-539
+ONID ID: stribyw
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
