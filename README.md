@@ -3,7 +3,7 @@
 
 Name: William K Striby Jr
 
-ONID ID: stribyw
+ONID USERNAME: stribyw
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
